@@ -1,11 +1,8 @@
 {
-  "name": "minecraft-full-bot",
+  "name": "minecraft-bot",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
   "dependencies": {
-    "mineflayer": "^4.0.0"
+    "mineflayer": "^4.6.0"
   }
 }
